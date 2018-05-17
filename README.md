@@ -1,2 +1,3 @@
 # first-practice
-it is 
+it is a c project
+
